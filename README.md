@@ -1,2 +1,3 @@
 # hello-world
-first steps
+This is the first GitHub repository by David Bürge
+(I sure hope the u-umlaut goes through)
